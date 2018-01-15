@@ -19,3 +19,16 @@ while(counter < 12) {
   print(counter)
   counter <- counter + 1
 }
+
+#For loop Example
+for(i in 1:5){
+  print(i)
+}
+
+for(i in 1:5){
+  print("Hello world")
+}
+
+for(i in 1:5){
+  i
+}
