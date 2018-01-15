@@ -15,3 +15,4 @@ is.integer()
 is.double()
 
 typeof()
+sqrt()
