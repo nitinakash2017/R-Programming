@@ -12,3 +12,12 @@
 result <- 4 < 5
 result
 typeof(result)
+
+result2 <- !(5 > 2 )
+result2
+
+result | result2
+result & result2
+
+isTRUE(result)
+
